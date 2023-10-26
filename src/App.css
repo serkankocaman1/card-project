@@ -1,0 +1,8 @@
+.container{
+    width: 317px;
+    height: 780px;
+    background:#1A1B21;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Inter', sans-serif;
+}

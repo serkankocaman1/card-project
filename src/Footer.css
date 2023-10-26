@@ -1,0 +1,18 @@
+.footer-container{
+    background: #161619;
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    border-bottom-left-radius: 0.93rem;
+    border-bottom-right-radius: 0.93rem;
+}
+
+.footer-container a{
+    color: #918E9B;
+    font-size: 1.875rem;
+    margin: 0 0.75rem;
+}
+
+.footer-container a:hover{
+    color:#B5B3BC;
+}

@@ -1,0 +1,17 @@
+:root{
+  font-size: 16px;
+}
+
+h1,h2,h3,h4,p,a{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a{
+  transition: all 0.2s ease-out;
+}
